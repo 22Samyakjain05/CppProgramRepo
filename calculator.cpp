@@ -11,7 +11,7 @@ int main ()
 	cout<<"Enter second number= ";
 	cin>>b;
 	
-	cout<<"Enter operator ";
+	cout<<"Enter operator with git data ";
 	cin>>op;
 	
 	switch(op){
